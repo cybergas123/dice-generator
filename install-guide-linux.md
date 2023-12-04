@@ -12,6 +12,5 @@ cd Downloads
 chmod +x dicegen-linux
 
 ## 5. Run the file:
-./filament-calc
-
+./dicegen-linux
 ## 6. Press Enter
