@@ -9,7 +9,7 @@
 cd Downloads
 
 ## 4. Make the file executable:
-chmod +x filament-calc
+chmod +x dicegen-linux
 
 ## 5. Run the file:
 ./filament-calc
