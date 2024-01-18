@@ -11,7 +11,7 @@ int main () {
     cout<<"input how many sides of cube : ";
     //cout var - sidescount
     int sidecount = 0;
-    cin>>sidecount;  
+    cin>>sidecount; 
     srand(time(NULL));
     do{
     dice1 = rand()%sidecount+1;
