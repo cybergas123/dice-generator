@@ -13,7 +13,7 @@ int main () {
     int sidecount = 0;
     cin>>sidecount;
     srand(time(NULL));
-    do{
+    do{ 
     dice1 = rand()%sidecount+1;
     //dice2
     
