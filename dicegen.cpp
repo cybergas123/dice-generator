@@ -20,6 +20,6 @@ int main () {
     dice2 = rand()%sidecount+1;
     cout<<"\ndice 1 is "<<dice1;
     cout<<"\tdice 2 is "<<dice2;
-    } 
+    }
     while (dice1!=dice2);
 }
