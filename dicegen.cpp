@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+ 
 int main () {
     //dice1
     int dice1 = 0;
