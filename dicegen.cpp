@@ -7,7 +7,7 @@ int main () {
     int dice1 = 0;
     //dice2 
     int dice2 = 0;
-    //question
+    //question 
     cout<<"input how many sides of cube : ";
     //cout var - sidescount
     int sidecount = 0;
