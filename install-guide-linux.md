@@ -2,7 +2,7 @@
 
 ## 1. Download the file for Linux:
 ## ![Download](https://github.com/cybergas123/dice-generator/raw/main/dicegen-linux)
- 
+
 ## 2. Open the terminal
 
 ## 3. Navigate to the folder where you downloaded the file (usually Downloads):
